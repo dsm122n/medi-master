@@ -1,0 +1,122 @@
+[
+  {
+      "idPregunta": 1,
+      "enunciado": "¿Cuál es el tratamiento de primera línea para la diabetes mellitus tipo 2 en pacientes sin contraindicaciones?",
+      "opciones": [
+          {
+              "idAlternativa": "A",
+              "texto": "Insulina basal",
+              "explicacion": "La insulina basal se usa en diabetes tipo 2 cuando la metformina y otros agentes no son suficientes o cuando hay contraindicaciones para otros tratamientos orales.",
+              "correcta": false
+          },
+          {
+              "idAlternativa": "B",
+              "texto": "Metformina",
+              "explicacion": "Correcto, la metformina es el tratamiento de primera línea según las guías actuales, a menos que haya contraindicaciones como insuficiencia renal avanzada.",
+              "correcta": true
+          },
+          {
+              "idAlternativa": "C",
+              "texto": "Sulfonilureas",
+              "explicacion": "Las sulfonilureas pueden usarse como tratamiento adicional, pero no son de primera línea debido al riesgo de hipoglucemias y aumento de peso.",
+              "correcta": false
+          },
+          {
+              "idAlternativa": "D",
+              "texto": "Inhibidores de SGLT2",
+              "explicacion": "Los inhibidores de SGLT2 son útiles en pacientes con insuficiencia cardíaca o enfermedad renal crónica, pero no son el tratamiento de primera línea universal.",
+              "correcta": false
+          }
+      ]
+  },
+  {
+      "idPregunta": 2,
+      "enunciado": "Un paciente de 65 años con antecedentes de hipertensión y tabaquismo consulta por disnea progresiva y sibilancias. ¿Cuál es el diagnóstico más probable?",
+      "opciones": [
+          {
+              "idAlternativa": "A",
+              "texto": "Asma bronquial",
+              "explicacion": "El asma suele presentarse desde la infancia o juventud y se caracteriza por variabilidad de los síntomas y respuesta a broncodilatadores, lo que no es lo más frecuente en este paciente.",
+              "correcta": false
+          },
+          {
+              "idAlternativa": "B",
+              "texto": "EPOC (Enfermedad Pulmonar Obstructiva Crónica)",
+              "explicacion": "Correcto, el antecedente de tabaquismo junto con disnea progresiva y sibilancias es sugestivo de EPOC.",
+              "correcta": true
+          },
+          {
+              "idAlternativa": "C",
+              "texto": "Neumonía bacteriana",
+              "explicacion": "La neumonía bacteriana suele presentar fiebre, tos con expectoración purulenta y consolidación en la auscultación, lo que no es característico en este caso.",
+              "correcta": false
+          },
+          {
+              "idAlternativa": "D",
+              "texto": "Fibrosis pulmonar idiopática",
+              "explicacion": "La fibrosis pulmonar idiopática puede producir disnea progresiva, pero es más frecuente en mayores de 70 años y se caracteriza por crepitantes bibasales en la auscultación.",
+              "correcta": false
+          }
+      ]
+  },
+  {
+      "idPregunta": 3,
+      "enunciado": "¿Cuál de los siguientes signos clínicos es más característico de una apendicitis aguda?",
+      "opciones": [
+          {
+              "idAlternativa": "A",
+              "texto": "Signo de Blumberg positivo",
+              "explicacion": "Correcto, el signo de Blumberg (dolor a la descompresión en el punto de McBurney) es altamente sugestivo de peritonitis localizada en apendicitis aguda.",
+              "correcta": true
+          },
+          {
+              "idAlternativa": "B",
+              "texto": "Ictericia",
+              "explicacion": "La ictericia es más frecuente en patologías hepáticas y biliares, no en apendicitis aguda.",
+              "correcta": false
+          },
+          {
+              "idAlternativa": "C",
+              "texto": "Signo de Homans positivo",
+              "explicacion": "El signo de Homans se relaciona con trombosis venosa profunda, no con apendicitis.",
+              "correcta": false
+          },
+          {
+              "idAlternativa": "D",
+              "texto": "Edema en miembros inferiores",
+              "explicacion": "El edema en miembros inferiores es un hallazgo más común en insuficiencia venosa o cardíaca, no en apendicitis.",
+              "correcta": false
+          }
+      ]
+  },
+  {
+      "idPregunta": 4,
+      "enunciado": "¿Cuál es el tratamiento de elección para una crisis convulsiva tónico-clónica generalizada en el contexto de status epilepticus?",
+      "opciones": [
+          {
+              "idAlternativa": "A",
+              "texto": "Carbamazepina",
+              "explicacion": "La carbamazepina no es de elección en crisis convulsivas agudas, se usa más en tratamiento crónico de epilepsia focal.",
+              "correcta": false
+          },
+          {
+              "idAlternativa": "B",
+              "texto": "Lorazepam IV",
+              "explicacion": "Correcto, las benzodiacepinas IV (lorazepam o diazepam) son el tratamiento inicial de elección para status epilepticus.",
+              "correcta": true
+          },
+          {
+              "idAlternativa": "C",
+              "texto": "Fenitoína oral",
+              "explicacion": "La fenitoína puede usarse en el manejo de mantenimiento, pero no es de primera línea en una crisis activa.",
+              "correcta": false
+          },
+          {
+              "idAlternativa": "D",
+              "texto": "Ácido valproico IV",
+              "explicacion": "El ácido valproico IV es una alternativa en pacientes en quienes no se puede usar benzodiacepinas, pero no es de primera elección.",
+              "correcta": false
+          }
+      ]
+  }
+]
